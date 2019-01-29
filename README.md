@@ -1,6 +1,6 @@
 # Go-Hello-World
 
-This repository will be used for all tutorials found in https://tour.golang.org
+This repository will be used for all tutorials found in https://tour.golang.org and other tutorials found around the web.
  
  * Files in Deck are part of a solution to build a card game
  * QuizGame reads in a CSV with two columns that provides a question and compares it to the answer
